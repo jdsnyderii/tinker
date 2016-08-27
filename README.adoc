@@ -1,0 +1,25 @@
+= HEADER
+Author is Jim Snyder
+:toc: right
+
+== Level 1
+
+* List 1
+* List 2.footnote:[Clarification]
+
+=== Level 2
+
+[NOTE]
+====
+Admonition
+
+
+====
+
+.Asciidoc: History
+****
+This is a neat side bar
+
+****
+
+
