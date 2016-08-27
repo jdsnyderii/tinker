@@ -12,14 +12,11 @@ Author is Jim Snyder
 [NOTE]
 ====
 Admonition
-
-
 ====
 
 .Asciidoc: History
 ****
 This is a neat side bar
-
 ****
 
 
